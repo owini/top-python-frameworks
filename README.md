@@ -2,7 +2,14 @@
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+## Official Guides for Python Frameworks
+
+-[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+-[Numpy](https://numpy.org/doc/stable/user/)
+-[Matplotlib](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
+-[Seaborn](https://seaborn.pydata.org/tutorial.html)
+
+## Table of Contents
 
 - [Awesome Python](#awesome-python)
     - [Admin Panels](#admin-panels)
